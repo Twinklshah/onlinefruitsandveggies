@@ -29,16 +29,3 @@ http://farmfresh1.azurewebsites.net/
 # shopping page(we easily buy healthy fruits and vegetables to click on the PayUMoney button)
 ![App Screenshot](https://user-images.githubusercontent.com/91620114/155885882-0432951b-ac28-4d99-a68f-2d71c5e7cade.png)
 
-## 🚀 About Me
-Hi, I'm Ankit!
-
-I'm a full stack developer...
-
-
-
-
-## 🛠 Skills
-Javascript, HTML, CSS...
-
-
-
